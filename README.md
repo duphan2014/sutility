@@ -1,4 +1,4 @@
-Sutility provides multiple utility at-hand for linux users.
+Sutility provides multiple utilities to access for linux/unix users.
 
 1. Disk info
 2. Battery info
